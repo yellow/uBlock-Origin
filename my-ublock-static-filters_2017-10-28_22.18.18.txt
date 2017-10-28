@@ -1,0 +1,12 @@
+en.wikipedia.org###frb-inline
+
+www.youtube.com###watch-discussion
+www.youtube.com###comment-section-renderer
+www.youtube.com###footer-container
+www.youtube.com###watch7-sidebar-contents
+www.youtube.com###yt-masthead-signin
+www.youtube.com###appbar-guide-button
+www.youtube.com###comments > .ytd-comments.style-scope
+www.youtube.com###buttons
+www.youtube.com###continuations > .ytd-watch-next-secondary-results-renderer.style-scope > .yt-next-continuation.style-scope:nth-of-type(1)
+www.youtube.com###related
