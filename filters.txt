@@ -10,7 +10,20 @@ www.youtube.com###comments > .ytd-comments.style-scope
 www.youtube.com###buttons
 www.youtube.com###continuations > .ytd-watch-next-secondary-results-renderer.style-scope > .yt-next-continuation.style-scope:nth-of-type(1)
 www.youtube.com###related
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-right-quad.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-video.ytp-ce-element
 
 www.howtogeek.com##.overlay-inner > .top-bar
 www.howtogeek.com##.overlay-inner
 www.howtogeek.com##.email-overlay
+
+www.proxydocker.com##.wall
+
+www.quora.com###__w2_sMWjv0e_wrapper > .button_cta_case_rules.upper_content
+
+www.reddit.com##.in.login-modal.fade.modal
+www.reddit.com##.in.fade.modal-backdrop
+
+archive.org###donate_banner
