@@ -15,6 +15,7 @@ www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-right-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 www.youtube.com##.video-annotations
 
 www.howtogeek.com##.overlay-inner > .top-bar
