@@ -10,13 +10,15 @@ www.youtube.com###comments > .ytd-comments.style-scope
 www.youtube.com###buttons
 www.youtube.com###continuations > .ytd-watch-next-secondary-results-renderer.style-scope > .yt-next-continuation.style-scope:nth-of-type(1)
 www.youtube.com###related
+www.youtube.com##.video-annotations
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-right-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.video-annotations
+www.youtube.com##.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-website.ytp-ce-element
 
 www.howtogeek.com##.overlay-inner > .top-bar
 www.howtogeek.com##.overlay-inner
