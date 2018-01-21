@@ -41,3 +41,4 @@ archive.org###donate_banner
 stackoverflow.com###sidebar
 stackoverflow.com##._fixed.js-top-bar.top-bar
 stackoverflow.com###announcement-banner
+superuser.com###hot-network-questions
