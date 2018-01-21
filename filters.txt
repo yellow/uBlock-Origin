@@ -42,3 +42,6 @@ stackoverflow.com###sidebar
 stackoverflow.com##._fixed.js-top-bar.top-bar
 stackoverflow.com###announcement-banner
 superuser.com###hot-network-questions
+
+www.merriam-webster.com##.subscribe-modal
+www.merriam-webster.com##.underlay
