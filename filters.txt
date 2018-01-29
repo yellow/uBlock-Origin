@@ -1,8 +1,8 @@
 en.wikipedia.org###frb-inline
 
 
-www.youtube.com##.ytd-section-list-renderer.style-scope:nth-of-type(even)
-www.youtube.com##.ytd-section-list-renderer.style-scope:nth-of-type(odd)
+!www.youtube.com##.ytd-section-list-renderer.style-scope:nth-of-type(even)
+!www.youtube.com##.ytd-section-list-renderer.style-scope:nth-of-type(odd)
 www.youtube.com###watch-discussion
 www.youtube.com###comment-section-renderer
 www.youtube.com###footer-container
