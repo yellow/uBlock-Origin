@@ -28,6 +28,7 @@ www.youtube.com##.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-c
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-right-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
 www.youtube.com###ticker
 
 www.howtogeek.com##.overlay-inner > .top-bar
@@ -54,6 +55,3 @@ www.merriam-webster.com##.underlay
 !Monil's work
 ! 30/01/2018, 13:55:45 https://www.youtube.com/
 www.youtube.com###page-manager > .ytd-page-manager.style-scope:nth-of-type(1) > .ytd-browse.style-scope:nth-of-type(1)
-
-
-
