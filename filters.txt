@@ -1,6 +1,6 @@
 en.wikipedia.org###frb-inline
 
-
+www.youtube.com###movie-upsell-card
 !www.youtube.com##.ytd-section-list-renderer.style-scope:nth-of-type(even)
 !www.youtube.com##.ytd-section-list-renderer.style-scope:nth-of-type(odd)
 www.youtube.com###watch-discussion
@@ -56,3 +56,4 @@ www.merriam-webster.com##.underlay
 !Monil's work
 ! 30/01/2018, 13:55:45 https://www.youtube.com/
 www.youtube.com###page-manager > .ytd-page-manager.style-scope:nth-of-type(1) > .ytd-browse.style-scope:nth-of-type(1)
+
