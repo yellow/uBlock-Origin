@@ -52,8 +52,3 @@ superuser.com###hot-network-questions
 
 www.merriam-webster.com##.subscribe-modal
 www.merriam-webster.com##.underlay
-
-!Monil's work
-! 30/01/2018, 13:55:45 https://www.youtube.com/
-www.youtube.com###page-manager > .ytd-page-manager.style-scope:nth-of-type(1) > .ytd-browse.style-scope:nth-of-type(1)
-
